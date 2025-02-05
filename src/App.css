@@ -1,0 +1,10 @@
+.app {
+  background-color: #121212;
+  min-height: 100vh;
+  padding: 20px;
+}
+* {
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+  
+}

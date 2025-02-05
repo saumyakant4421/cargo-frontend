@@ -1,0 +1,94 @@
+.shipment-list {
+    width: 90%;
+    margin: 30px auto;
+    padding: 20px;
+    background: #1e1e1e;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1);
+    font-family: "Poppins", sans-serif;
+  }
+  
+  h2 {
+    text-align: center;
+    color: white;
+  }
+  
+  .add-btn {
+    background: #ffcc00;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    display: block;
+    margin: 10px auto;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .add-btn:hover {
+    background: #ffaa00;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  thead {
+    background: #333;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: center;
+    border-bottom: 1px solid #444;
+  }
+  
+  tbody tr:hover {
+    background: #2a2a2a;
+  }
+
+  .map-popup {
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #222;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.2);
+    z-index: 1000;
+  }
+  
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: red;
+    color: white;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .add-shipment-btn {
+    margin: 15px auto; /* Center the button horizontally */
+    padding: 10px 20px;
+    background-color: #ffcc00;
+    color: #000000;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block; /* Ensure it is a block element for centering */
+  }
+  
+  .add-shipment-btn:hover {
+    background-color: #b69616;
+  }
+  
+  
+  

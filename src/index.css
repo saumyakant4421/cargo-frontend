@@ -1,0 +1,25 @@
+@import "leaflet/dist/leaflet.css";
+
+* {
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #121212;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
