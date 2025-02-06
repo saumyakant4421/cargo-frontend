@@ -2,7 +2,6 @@
 ---
 
 ### **📌 README for Frontend (`cargo-tracker-frontend/README.md`)**  
-Copy and paste the following content into your **frontend** repo's `README.md` file:  
 
 ```markdown
 # 🌍 Cargo Tracker - Frontend
